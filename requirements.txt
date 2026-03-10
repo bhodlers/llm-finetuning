@@ -1,2 +1,11 @@
 jupyterlab
 nbclient
+git+https://github.com/huggingface/transformers.git
+datasets
+seqeval
+evaluate
+accelerate
+scikit-learn
+numpy
+pandas
+torch
